@@ -1,8 +1,8 @@
 package Hotel_paradis.Hotel_paradis;
 
-/**
- * Hello world!
+/** Hello world
  *
+ //
  */
 public class App 
 {
